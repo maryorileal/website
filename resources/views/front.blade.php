@@ -10,7 +10,7 @@
 </head>
 <body>
   <header>
-    <h1>Neurodiseño Web</h1>
+    <h1>Maryori Leal</h1>
     <p>El arte y la ciencia de crear experiencias digitales memorables.</p>
     <nav>
       <a href="#conoceme">Conóceme</a>
