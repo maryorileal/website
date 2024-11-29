@@ -43,7 +43,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2024 Neurodiseño Web | Diseñado para impulsar tu éxito digital</p>
+    <p>&copy; 2024 Maryori leal Neurodiseño Web | Diseñado para impulsar tu éxito digital</p>
   </footer>
 </body>
 </html>
